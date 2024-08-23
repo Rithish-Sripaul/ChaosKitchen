@@ -11,7 +11,8 @@
 
 ## Example Images and Videos
 
-![Watch the video](Image/Example_Video.mp4)
+#### Youtube Video
+[![Example video](https://youtu.be/ovxaNTp9TtI/0.jpg)](https://youtu.be/ovxaNTp9TtI)
 
 ![Example Image 1](Image/Image_1.jpeg)
 
