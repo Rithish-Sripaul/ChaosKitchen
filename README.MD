@@ -30,22 +30,16 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/chaos-kitchen.git
+   git clone https://github.com/Rithish-Sripaul/ChaosKitchen.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd chaos-kitchen
+   cd ChaosKitchen
    ```
 
-3. Open the project in Unity to explore or modify the code:
-
-   ```bash
-   unity .
-   ```
-
-4. Alternatively, run the executable file provided in the `Build` folder to play the game.
+3. Extract the zip file, and run the game via the Executable file. Enjoy!
 
 ## Known Issues
 
