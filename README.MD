@@ -11,7 +11,7 @@
 
 ## Example Images and Videos
 
-![Watch the video](Image/Examlpe_Video.mp4)
+![Watch the video](Image/Example_Video.mp4)
 
 ![Example Image 1](Image/Image_1.jpeg)
 
