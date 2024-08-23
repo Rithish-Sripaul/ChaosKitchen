@@ -1,7 +1,6 @@
-
 # Chaos Kitchen
 
-**Chaos Kitchen** is a fast-paced, single-level cooking simulation game inspired by the popular game *Overcooked*. Players are challenged to prepare and serve a variety of recipes that appear randomly, all while managing the chaos of a busy kitchen. The game supports both keyboard and controller input.
+**Chaos Kitchen** is a fast-paced, single-level cooking simulation game inspired by the popular game _Overcooked_. Players are challenged to prepare and serve a variety of recipes that appear randomly, all while managing the chaos of a busy kitchen. The game supports both keyboard and controller input.
 
 ## Features
 
@@ -13,14 +12,16 @@
 ## How to Play
 
 1. **Start the Game:**
+
    - Launch the game from the provided executable file.
 
 2. **Controls:**
+
    - **Keyboard:** Use the arrow keys/WASD to move, and the spacebar or E key to interact.
    - **Controller:** Use the joystick to move and the A button to interact.
 
 3. **Objective:**
-   - Prepare the recipes as they appear on the screen. 
+   - Prepare the recipes as they appear on the screen.
    - Follow the steps: chop, cook, assemble, and serve the dishes within the time limit.
    - Complete as many orders as possible before time runs out!
 
@@ -28,21 +29,21 @@
 
 1. Clone the repository:
 
-   '''bash
+   ```bash
    git clone https://github.com/yourusername/chaos-kitchen.git
-   '''
+   ```
 
 2. Navigate to the project directory:
 
-   '''bash
+   ```bash
    cd chaos-kitchen
-   '''
+   ```
 
 3. Open the project in Unity to explore or modify the code:
 
-   '''bash
+   ```bash
    unity .
-   '''
+   ```
 
 4. Alternatively, run the executable file provided in the `Build` folder to play the game.
 
