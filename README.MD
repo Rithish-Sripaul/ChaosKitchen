@@ -9,10 +9,10 @@
 - **Controller Support:** Play using a controller for a more immersive experience.
 - **Beginner-Friendly Development:** Built with Unity, this project reflects my journey as a beginner game developer.
 
-## Example Images and Videos
-
-#### Youtube Video
+### Youtube Video (Click the thumbnail)
 [![Example video](https://img.youtube.com/vi/ovxaNTp9TtI/0.jpg)](https://www.youtube.com/watch?v=ovxaNTp9TtI)
+
+### Example Images
 
 ![Example Image 1](Image/Image_1.jpeg)
 
