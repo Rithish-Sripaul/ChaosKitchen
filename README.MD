@@ -11,7 +11,7 @@
 
 ## Example Images and Videos
 
-[![Watch the video](https://raw.githubusercontent.com/Rithish-Sripaul/ChaosKitchen/main/Image/Image_1.jpeg)](https://raw.githubusercontent.com/Rithish-Sripaul/ChaosKitchen/main/Examlpe_Video.mp4)
+![Watch the video](Image/Examlpe_Video.mp4)
 
 ![Example Image 1](Image/Image_1.jpeg)
 
