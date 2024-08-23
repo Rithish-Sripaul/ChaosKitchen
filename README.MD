@@ -9,6 +9,13 @@
 - **Controller Support:** Play using a controller for a more immersive experience.
 - **Beginner-Friendly Development:** Built with Unity, this project reflects my journey as a beginner game developer.
 
+## Example Images and Videos
+
+[![Watch the video](https://raw.githubusercontent.com/Rithish-Sripaul/ChaosKitchen/main/Image/Image_1.jpeg)](https://raw.githubusercontent.com/Rithish-Sripaul/ChaosKitchen/main/Examlpe_Video.mp4)
+
+![Example Image 1](Image/Image_1.jpeg)
+
+![Example Image 2](Image/Image_2.jpeg)
 ## How to Play
 
 1. **Start the Game:**
