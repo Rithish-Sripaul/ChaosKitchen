@@ -12,7 +12,7 @@
 ## Example Images and Videos
 
 #### Youtube Video
-[![Example video](https://youtu.be/ovxaNTp9TtI/0.jpg)](https://youtu.be/ovxaNTp9TtI)
+[![Example video](https://img.youtube.com/vi/ovxaNTp9TtI/0.jpg)](https://www.youtube.com/watch?v=ovxaNTp9TtI)
 
 ![Example Image 1](Image/Image_1.jpeg)
 
